@@ -1,1 +1,1 @@
-My first Git repository
+# Git Intro Project
